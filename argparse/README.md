@@ -20,7 +20,7 @@ parser.parse_args()
 
 #### ArgumentParser对象
 
-*class* argparse.ArgumentParser(*prog=None*, *usage=None*, *description=None*, *epilog=None*, *parents=[]*, *formatter_class=argparse.HelpFormatter*, *prefix_chars='-'*, *fromfile_prefix_chars=None*, *argument_default=None*, *conflict_handler='error'*, *add_help=True*, *allow_abbrev=True*, *exit_on_error=True*)[¶](https://docs.python.org/zh-cn/3.10/library/argparse.html#argparse.ArgumentParser)（太长可以不看）
+`class argparse.ArgumentParser(prog=None, usage=None, description=None, epilog=None, parents=[], formatter_class=argparse.HelpFormatter, prefix_chars='-', fromfile_prefix_chars=None, argument_default=None, conflict_handler='error', add_help=True, allow_abbrev=True, exit_on_error=True)[¶](https://docs.python.org/zh-cn/3.10/library/argparse.html#argparse.ArgumentParser)`（太长可以不看）
 
 常用参数：
 
