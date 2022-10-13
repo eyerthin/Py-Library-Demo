@@ -8,4 +8,4 @@ perhaps document some usage of the python standard library
 |0x00|实现一些功能的小组件,点进来看看吧  A piece that performs some function,hava a look|
 |argparse|命令行选项和参数解析  Command-Line Option and Argument Parsing|
 |os|非常强大（待补充）  Powerful(To be added)|
-
+|heapq|堆队列算法  Heap queue algorithm|
